@@ -13,7 +13,7 @@ designer, student, or simply passionate about tech, join us to connect, learn, a
 
 * **Host events and workshops:** Build your skills and expand your network (
   [Luma](https://lu.ma/u/somalisintech) and [Eventbrite](https://somalisintech.eventbrite.com/)).
-* **Provide mentorship:** Get guidance and support to advance your tech career.
+* **Provide mentorship:** Get guidance and support to advance your tech career (checkout our mentorship platform [Caawi](https://caawi.so)).
 * **Collaborate on projects:**  Use your tech skills to tackle real-world issues.
 
 **Join Us**
